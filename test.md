@@ -8,6 +8,8 @@ typora-copy-images-to: ./imgs/
 
 小组成员:胡志峰、杨俊逸、蔡彦麓、赵伟承、吴钟立
 
+[TOC]
+
 ## 测试与持续集成
 
 Agileffy开发小组为了合作开发的便利性，使用了GitHub[^1]作为代码协作环境，使用git作为版本控制软件。我们的开发小组的主页为[Agileffy Development Foundation](<https://github.com/agileffy>)，前端代码仓库为[Agileffy](https://github.com/agileffy/Agileffy)，后端代码仓库为[AgileffyServer](https://github.com/agileffy/AgileffyServer)，最新的发行版本可以通过[agileffy.github.io](https://agileffy.github.io/)访问。
@@ -32,12 +34,14 @@ Agileffy开发小组为了合作开发的便利性，使用了GitHub[^1]作为�
 
 ## 前端测试
 
-单元测试（Unit Test）
+前端我们采用的技术栈为 Vue+Vuetify+Typescript ，我们分别对
 
-端到端测试（E2E, End to End Testing）
+### 单元测试（Unit Test）
+
+### 端到端测试（E2E, End to End Testing）
 
 ## 后端测试
 
 [^1]: <https://github.com/>
-[^2]: 
+[^2]:<https://github.com/apps/travis-ci>
 
